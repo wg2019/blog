@@ -1,0 +1,12 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "个人博客",
+  "main": "index.js",
+  "repository": "blog.wg2019.cn",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
